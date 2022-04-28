@@ -10,7 +10,7 @@
 ```javascript
 const peter = {
   code: [Swift, Java, JavaScript, Ruby, Python, SQL, Rust, PHP],
-  technologies: [React, SwiftUI, Redux, NodeJS, Terraform, WireGuard]
+  technologies: [React, SwiftUI, Redux, NodeJS, Terraform, WireGuard],
   tools: [Docker, Cypress, Git],
   organizations: {
       undergraduate: "University of Connecticut",
