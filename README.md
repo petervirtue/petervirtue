@@ -1,16 +1,25 @@
 ### Hi there 👋
+<!-- <img align='right' src='https://www.spigotmc.org/data/avatars/l/1379/1379584.jpg?1643825689' width='200'/> -->
+<p>Hi! My name is Peter. I am a Full Stack Software Engineer currently finishing out my college degree before going to work for Folia Health. I have a passion for mobile app development and love a good project / challenge!</p>
 
-<!--
-**petervirtue/petervirtue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Studying Computer Science & Entrepreneurship at the University of Connecticut
+- 🔭 Incoming Software Engineer at Folia Health
+- 📍 Currently in Boston, MA
 
-Here are some ideas to get you started:
+### 📝 A bit more about me...
+```javascript
+const peter = {
+  code: [Swift, Java, JavaScript, Ruby, Python, SQL, Rust, PHP],
+  technologies: [React, SwiftUI, Redux, NodeJS, Terraform, WireGuard]
+  tools: [Docker, Cypress, Git],
+  organizations: {
+      undergraduate: "University of Connecticut",
+      software_engineer: "Folia Health",
+  },
+}     
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me here:
+- [Website](https://petervirtue.com)
+- [Email](mailto:petervirtue18@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/petervirtue/)
