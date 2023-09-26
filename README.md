@@ -1,25 +1,31 @@
 ### Hi there 👋
-<!-- <img align='right' src='https://www.spigotmc.org/data/avatars/l/1379/1379584.jpg?1643825689' width='200'/> -->
-<p>Hi! My name is Peter. I am a Full Stack Software Engineer currently working at Folia Health. I have a passion for mobile app development and love a good project / challenge!</p>
+<p>Hi! My name is Peter. I am a full-stack software engineer currently working on a little bit of everything at Folia Health. I enjoy being a bridge between engineering & design and always love a good challenge!</p>
 
-- 📚 Computer Science & Entrepreneurship at the University of Connecticut
-- 🔭 Software Engineer at Folia Health
-- 📍 Currently in Boston, MA
+- 🌱 Software Engineer at Folia Health
+- 📍 Boston, MA
 
 ### 📝 A bit more about me...
 ```javascript
 const peter = {
-  code: [Swift, Java, JavaScript, Ruby, Python, SQL, Rust, PHP],
-  technologies: [React, SwiftUI, Redux, NodeJS, Terraform, WireGuard],
-  tools: [Docker, Cypress, Git],
-  organizations: {
-      undergraduate: "University of Connecticut",
-      software_engineer: "Folia Health",
+  languages: [C++, Java, JavaScript, PHP, Python, Ruby, Rust, SQL, Swift, TypeScript],
+  frameworks: [Django, Laravel, Node.js, Rails, React & React Native, Terraform, Vue],
+  tools: [AWS, Cypress, Docker, Git],
+  experience: {
+      folia_health: {
+          title: Software Engineer,
+          current_job: true,
+          responsibilities: A little bit of everything,
+      }
+      vizer: {
+          title: Software Engineering Intern,
+          current_job: false,
+          responsibilities: Primarily building out new features in their mobile application and internal content management application,
+      },
   },
 }     
 ```
 
-### 📫 Reach me here:
+### 📫 Contact me:
 - [Website](https://petervirtue.com)
 - [Email](mailto:petervirtue18@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/petervirtue/)
