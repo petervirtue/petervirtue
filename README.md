@@ -12,14 +12,14 @@ const peter = {
   tools: [AWS, Cypress, Docker, Git],
   experience: {
       folia_health: {
-          title: Software Engineer,
+          title: 'Software Engineer',
           current_job: true,
-          responsibilities: A little bit of everything,
-      }
+          responsibilities: 'A little bit of everything',
+      },
       vizer: {
-          title: Software Engineering Intern,
+          title: 'Software Engineering Intern',
           current_job: false,
-          responsibilities: Primarily building out new features in their mobile application and internal content management application,
+          responsibilities: 'Primarily building out new features in their mobile application and internal content management application',
       },
   },
 }     
