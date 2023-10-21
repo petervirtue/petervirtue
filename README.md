@@ -9,7 +9,7 @@
 const peter = {
   skills: ['JavaScript','TypeScript','Java','Python','React','Git','Node','AWS','Docker','REST','Relational Databases','Vue','Ruby','CI/CD','C++','Express','Next','GraphQL','Swift','React Native','Django','Rails','OOP','Unit Testing','Cypress','Terraform','Distributed Systems',]
   experience: {
-      folia_health: {
+      foliaHealth: {
           title: 'Software Engineer',
           responsibilities: 'A little bit of everything',
       },
