@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am a full-stack Software Engineer currently working on a little bit of everything at Folia Health. I pride myself onbeing a quick learner and always love a good challenge! Here's a bit more about me</p>
+<p>I am a full-stack Software Engineer currently working on a little bit of everything at Folia Health. I pride myself on being a quick learner and always love a good challenge! Here's a bit more about me</p>
 
 - 🌱 Software Engineer at Folia Health
 - 📍 Boston, Massachusetts, USA
