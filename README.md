@@ -1,22 +1,27 @@
 ### Hi there 👋
-<p>Hi there! I am a full-stack software engineer currently working on a little bit of everything at Folia Health. I enjoy being a bridge between engineering & design and always love a good challenge!</p>
+<p>I am a full-stack Software Engineer currently working on a little bit of everything at Folia Health. I pride myself onbeing a quick learner and always love a good challenge! Here's a bit more about me</p>
 
 - 🌱 Software Engineer at Folia Health
-- 📍 Boston, MA
+- 📍 Boston, Massachusetts, USA
 
-### 📝 A bit more about me...
 ```javascript
 const peter = {
-  skills: ['JavaScript','TypeScript','Java','Python','React','Git','Node','AWS','Docker','REST','Relational Databases','Vue','Ruby','CI/CD','C++','Express','Next','GraphQL','Swift','React Native','Django','Rails','OOP','Unit Testing','Cypress','Terraform','Distributed Systems',]
-  experience: {
-      foliaHealth: {
-          title: 'Software Engineer',
-          responsibilities: 'A little bit of everything',
-      },
-      vizer: {
-          title: 'Software Engineering Intern',
-          responsibilities: 'Primarily building out new features in their mobile application and internal content management application',
-      },
-  },
-}     
+    skills: {
+        languages: ['TypeScript', 'JavaScript', 'PHP', 'Java', 'HTML', 'CSS', 'Ruby', 'Python', 'Rust'],
+        technologies: ['React', 'Terraform', 'Docker', 'Next.js', 'Redux', 'Tailwind CSS', 'Cypress'],
+        databases: ['MySQL', 'Postgres', 'Redis'],
+    },
+    experience: {
+        foliaHealth: {
+            title: 'Software Engineer',
+            timeline: 'May 2022 - Present',
+            responsibilities: 'A little bit of everything.',
+        },
+        vizer: {
+            title: 'Software Engineering Intern',
+            timeline: 'December 2020 - August 2021',
+            responsibilities: 'Build out new features for the mobile app, internal admin tool and rails API.',
+        },
+    },
+}
 ```
